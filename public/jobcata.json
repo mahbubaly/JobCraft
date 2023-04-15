@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "categoryName": "Software Development",
+        "image": "https://cdn-icons-png.flaticon.com/512/4368/4368389.png",
+        "jobCount": 500
+    },
+    {
+        "id": 2,
+        "categoryName": "Design",
+        "image": "https://cdn-icons-png.flaticon.com/512/6415/6415824.png",
+        "jobCount": 200
+    },
+    {
+        "id": 3,
+        "categoryName": "Marketing",
+        "image": "https://cdn-icons-png.flaticon.com/512/4185/4185383.png",
+        "jobCount": "+ 300"
+    },
+    {
+        "id": 4,
+        "categoryName": "Data Science",
+        "image": "https://cdn-icons-png.flaticon.com/512/6461/6461822.png",
+        "jobCount": 150
+    }
+]

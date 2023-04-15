@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "company": "Google",
+    "title": "Software Engineer",
+    "location": "Mountain View, CA",
+    "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+    "description": "Join our team of talented software engineers and work on cutting-edge technology at one of the world's leading tech companies.",
+    "applyLink": "https://careers.google.com/jobs",
+    "salary": "50k - 100k",
+    "full": "Full time",
+    "remote": "Remote",
+    "requirements": "Bachelor's degree in Computer Science or related field, 5+ years of experience in software development",
+    "Job_Responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "Experiences": "2-3 Years in this field.",
+    "phone":"01720451251" ,
+    "email":"john.do4@email.com"
+    
+
+  },
+  {
+    "id": 2,
+    "company": "Netflix",
+    "title": "Senior UX Designer",
+    "location": "Los Gatos, CA",
+    "image": "https://assets.nflxext.com/ffe/siteui/common/icons/nficon2016.png",
+    "description": "Help shape the future of entertainment by designing the user experience for our groundbreaking streaming platform.",
+    "applyLink": "https://jobs.netflix.com/search",
+    "salary": "20k - 90k",
+    "full": "Full time",
+    "remote": "Onsite",
+    "Job_Responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "Experiences": "5-6 Years in this field." ,
+    "phone": "+458451251" ,
+    "email": "sara.sm@gmail.com"
+    
+  },
+  {
+    "id": 3,
+    "company": "Amazon",
+    "title": "Product Manager",
+    "location": "Seattle, WA",
+    "image": "https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo-768x480.png",
+    "description": "Drive the development and launch of new products and features at one of the world's largest e-commerce companies.",
+    "applyLink": "https://www.amazon.jobs/",
+    "salary": "90k - 100k",
+    "full": "Full time",
+    "remote": "Onsite",
+    "requirements": "Bachelor's degree in Business, Engineering or related field, 5+ years of experience in product management",
+    "Job_Responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "Experiences": "1-2 Years in this field." ,
+    "phone": "+4472045151" ,
+    "email": "jennifer.p456@hotmail.com"
+  },
+  {
+    "id": 4,
+    "company": "Apple",
+    "title": "iOS Developer",
+    "location": "Cupertino, CA",
+    "image": "https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201810271500",
+    "description": "Join our team of iOS developers and help create the next generation of mobile apps for millions of users around the world.",
+    "applyLink": "https://www.apple.com/jobs/us/",
+    "salary": "100k - 5000k",
+    "full": "Full time",
+    "remote": "Remote",
+    "requirements": "Bachelor's degree in Computer Science or related field, 3+ years of experience in iOS app development",
+    "Job_Responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "Experiences": "2-2.5 Years in this field." ,
+    "phone": "+517204251" ,
+    "email": "alex.w777@yahoo.com"
+  }
+]
